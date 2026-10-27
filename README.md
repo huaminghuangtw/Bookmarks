@@ -1,5 +1,3 @@
-# Brain Food
-
 ## About
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -101,7 +99,7 @@ Searchable. Sortable. Shareable.
 
 ### Tool
 
-Download [this shortcut](https://shortcutomation.com/brain-food/) to have a random “Brain Food” delivered straight to your Lock Screen.
+Download [this shortcut](https://shortcutomation.com/brain-food-lists/) to have a random “Brain Food” delivered straight to your Lock Screen.
 
 <p align="center">
 <a href="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp"><kbd><img src="https://media.huam.ing/image/8f700dc42c24cb9c5228e2e002ff3a8a.webp"/></kbd></a>
@@ -109,7 +107,7 @@ Download [this shortcut](https://shortcutomation.com/brain-food/) to have a rand
 
 ## Support
 
-You can view this project at [huam.ing/bookmark](https://huam.ing/bookmark) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/brain-food). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can view this project at [huam.ing/bookmarks](https://huam.ing/bookmarks) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/brain-food). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
 ## Contribution
 
