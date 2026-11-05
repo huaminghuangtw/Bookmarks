@@ -1,16 +1,44 @@
 {
-    "items": [
+    "reminders": [
         {
-            "title": "How to Get Rich",
+            "tags": "",
+            "due_date": "",
             "notes": "",
-            "url": "https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m",
-            "category": "❤️ Favorites"
-        },
-        {
-            "title": "Naval Ravikant: The Angel Philosopher",
-            "notes": "",
-            "url": "https://open.spotify.com/episode/5W0RQCDr28VSxVZOYJn3f5",
-            "category": "❤️ Favorites"
+            "creation_date": "Nov 17, 2024 at 18:41",
+            "modified_date": "Sep 17, 2026 at 11:02",
+            "flagged": false,
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 17, 2024 at 18:42",
+                    "modified_date": "Aug 19, 2026 at 15:04",
+                    "flagged": false,
+                    "list": "◻️ Podcast",
+                    "priority": "None",
+                    "name": "How to Get Rich",
+                    "url": "https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 17, 2024 at 18:41",
+                    "modified_date": "Aug 19, 2026 at 19:31",
+                    "flagged": false,
+                    "list": "◻️ Podcast",
+                    "priority": "None",
+                    "name": "Naval Ravikant: The Angel Philosopher",
+                    "url": "https://open.spotify.com/episode/5W0RQCDr28VSxVZOYJn3f5"
+                }
+            ],
+            "list": "◻️ Podcast",
+            "priority": "None",
+            "name": "❤️ Favorites",
+            "url": ""
         }
     ]
 }
