@@ -1,934 +1,2074 @@
 {
-    "items": [
-        {
-            "title": "To the Summit",
-            "notes": "🖼️ Mount Everest, the highest peak in the world, welcomes the challenge of countless dreamers every year. Xia Boyu is the first Chinese \"hardcore man\" to successfully climb Mount Everest with prosthetics! In 1975, Xia Boyu joined the Chinese mountaineering team. He helped his teammates while climbing Mount Everest, which resulted in his lower legs being amputated due to frostbite. However, he did not give up his dream of climbing Mount Everest.",
-            "url": "https://www.imdb.com/title/tt16345430",
-            "category": "❤️ Favorites"
-        },
-        {
-            "title": "About Time",
-            "notes": "🗣️ \"What if every moment in life came with a second chance?\"\n🖼️ The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.\n🏠 https://www.uphe.com/movies/about-time",
-            "url": "https://www.imdb.com/title/tt2194499",
-            "category": "❤️ Favorites"
-        },
-        {
-            "title": "Return to Space",
-            "notes": "🖼️ The inspirational rise of SpaceX as well as Elon Musk's two-decade effort to resurrect America’s space travel ambitions.\n🏠 https://www.netflix.com/title/81111324",
-            "url": "https://www.imdb.com/title/tt18555320",
-            "category": "❤️ Favorites"
-        },
-        {
-            "title": "The Whale (我的鯨魚老爸)",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt13833688",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Arrival",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt2543164",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Coach Carter",
-            "notes": "Year: 2005",
-            "url": "https://www.imdb.com/title/tt0393162",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Her",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt1798709",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Revolution of Our Times",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt15049118",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Roadrunner: A Film About Anthony Bourdain",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt14512538",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Run for dream",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt10851008",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Somm (頂尖侍酒大師)",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt2204371",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Struggle: The Life and Lost Art of Szukalski",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt9316022",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Alpinist",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt11790780",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Biggest Little Farm (我家有個開心農場)",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt8969332",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Game Changers",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt7455754",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Magic Pill",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt6035294",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Price of Everything",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt7475540",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Rescue",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt9098872",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Work",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt5836866",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Trip of Compassion",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt7155154",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Blue Bird",
-            "notes": "Year: 2008",
-            "url": "https://www.imdb.com/title/tt1313093",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Time Traveler's Wife",
-            "notes": "Year: 2009",
-            "url": "https://www.imdb.com/title/tt0452694",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Legend of Bagger Vance",
-            "notes": "Year: 2000",
-            "url": "https://www.imdb.com/title/tt0146984",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Amistad",
-            "notes": "Year: 1997",
-            "url": "https://www.imdb.com/title/tt0118607",
-            "category": "MOVIE"
-        },
-        {
-            "title": "King Richard",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt9620288",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Oppenheimer (奧本海默)",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt15398776",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The King's Speech (王者之聲：宣戰時刻)",
-            "notes": "Year: 2010",
-            "url": "https://www.imdb.com/title/tt1504320",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Walk",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt3488710",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Legend of 1900",
-            "notes": "Year: 1998",
-            "url": "https://www.imdb.com/title/tt0120731",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Whiplash (進擊的鼓手)",
-            "notes": "Year: 2014",
-            "url": "https://www.imdb.com/title/tt2582802",
-            "category": "MOVIE"
-        },
-        {
-            "title": "A Beautiful Mind (美麗心靈)",
-            "notes": "Year: 2001",
-            "url": "https://www.imdb.com/title/tt0268978",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Past Lives (怕死來福)",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt13238346",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Tuesdays with Morrie",
-            "notes": "Year: 1999",
-            "url": "https://www.imdb.com/title/tt0207805",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Erin Brockovich",
-            "notes": "Year: 2000",
-            "url": "https://www.imdb.com/title/tt0195685",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Like Stars on Earth (心中的小星星)",
-            "notes": "Year: 2007",
-            "url": "https://www.imdb.com/title/tt0986264",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Doctor Strange",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt1211837",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Dangal",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt5074352",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Matrix (駭客任務)",
-            "notes": "Year: 1999",
-            "url": "https://www.imdb.com/title/tt0133093",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Inside Out (腦筋急轉彎)",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt2096673",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Inside Out 2 (腦筋急轉彎2)",
-            "notes": "Year: 2024",
-            "url": "https://www.imdb.com/title/tt22022452",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Coco",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt2380307",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Cool Runnings",
-            "notes": "Year: 1993",
-            "url": "https://www.imdb.com/title/tt0106611",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Free Solo",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt7775622",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The River Runner",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt15293256",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Martian (絕地救援)",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt3659388",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Dune",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt1160419",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Dune: Part Two (沙丘：第二部)",
-            "notes": "Year: 2024",
-            "url": "https://www.imdb.com/title/tt15239678",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Soul",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt2948372",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
-            "notes": "Year: 1999\nGenres: Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
-            "url": "https://www.imdb.com/title/tt0202259",
-            "category": "MOVIE"
-        },
-        {
-            "title": "La La Land",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt3783958",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Worst Person in the World (世界上最爛的人)",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt10370710",
-            "category": "MOVIE"
-        },
-        {
-            "title": "3 Idiots (三個傻瓜)",
-            "notes": "Year: 2009",
-            "url": "https://www.imdb.com/title/tt1187043",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Life Is Beautiful (美麗人生)",
-            "notes": "Year: 1997",
-            "url": "https://www.imdb.com/title/tt0118799",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Midnight in Paris",
-            "notes": "Year: 2011",
-            "url": "https://www.imdb.com/title/tt1605783",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Great Dictator",
-            "notes": "Year: 1940",
-            "url": "https://www.imdb.com/title/tt0032553",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Joker (小丑)",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt7286456",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Last Days",
-            "notes": "Year: 1998",
-            "url": "https://www.imdb.com/title/tt0174852",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Social Dilemma",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt11464826",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Facing Nolan",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt17511190",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Barkley Marathons: The Race That Eats Its Young",
-            "notes": "Year: 2014",
-            "url": "https://www.imdb.com/title/tt2400291",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Lost Leonardo",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt11225756",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Searching for Sugar Man (尋找甜秘客)",
-            "notes": "Year: 2012",
-            "url": "https://www.imdb.com/title/tt2125608",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Burden of Dreams",
-            "notes": "Year: 1982",
-            "url": "https://www.imdb.com/title/tt0083702",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Cave of Forgotten Dreams",
-            "notes": "Year: 2010",
-            "url": "https://www.imdb.com/title/tt1664894",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Crip Camp: A Disability Revolution",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt8923484",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Dealt",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt3127902",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Dosed",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt9787524",
-            "category": "MOVIE"
-        },
-        {
-            "title": "From Shock to Awe",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt7541970",
-            "category": "MOVIE"
-        },
-        {
-            "title": "I Am Bolt",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt4647900",
-            "category": "MOVIE"
-        },
-        {
-            "title": "In Search of Greatness",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt8236398",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Jiro Dreams of Sushi",
-            "notes": "Year: 2011",
-            "url": "https://www.imdb.com/title/tt1772925",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Jonas Deichmann - Breaking the Limit",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt16986722",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Kipchoge: The Last Milestone",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt14247964",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Kumaré",
-            "notes": "Year: 2012",
-            "url": "https://www.imdb.com/title/tt1865425",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Late Life: The Chien-Ming Wang Story (後勁: 王建民)",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt8234502",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Man on Wire",
-            "notes": "Year: 2008",
-            "url": "https://www.imdb.com/title/tt1155592",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Mike Wallace Is Here",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt9353436",
-            "category": "MOVIE"
-        },
-        {
-            "title": "One of Us",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt7214842",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Philip Roth: Unmasked",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt2772984",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Pumping Iron",
-            "notes": "Year: 1977",
-            "url": "https://www.imdb.com/title/tt0076578",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Everything Everywhere All at Once (媽的多重宇宙)",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt6710474",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Remember Me",
-            "notes": "Year: 2010",
-            "url": "https://www.imdb.com/title/tt1403981",
-            "category": "MOVIE"
-        },
-        {
-            "title": "My Dinner with Andre",
-            "notes": "Year: 1981",
-            "url": "https://www.imdb.com/title/tt0082783",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Saving Private Ryan",
-            "notes": "Year: 1998",
-            "url": "https://www.imdb.com/title/tt0120815",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Let the Bullets Fly (讓子彈飛)",
-            "notes": "Year: 2010",
-            "url": "https://www.imdb.com/title/tt1533117",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Twelve Nights",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt4141906",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Brutalist",
-            "notes": "Year: 2024",
-            "url": "https://www.imdb.com/title/tt8999762",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Ne Zha 2",
-            "notes": "Year: 2025",
-            "url": "https://www.imdb.com/title/tt34956443",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Ne Zha",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt10627720",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Rain Man",
-            "notes": "Year: 1988",
-            "url": "https://www.imdb.com/title/tt0095953",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Searching for Bobby Fischer",
-            "notes": "Year: 1993",
-            "url": "https://www.imdb.com/title/tt0108065",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Book Thief",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt0816442",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Finishers",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt2454430",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Pursuit of Happyness",
-            "notes": "Year: 2006",
-            "url": "https://www.imdb.com/title/tt0454921",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Yi Yi",
-            "notes": "Year: 2000",
-            "url": "https://www.imdb.com/title/tt0244316",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Butterfly Effect",
-            "notes": "Year: 2004",
-            "url": "https://www.imdb.com/title/tt0289879",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Stanford Prison Experiment",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt0420293",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Shawshank Redemption (刺激1995)",
-            "notes": "Year: 1994",
-            "url": "https://www.imdb.com/title/tt0111161",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Moneyball (魔球)",
-            "notes": "Year: 2011",
-            "url": "https://www.imdb.com/title/tt1210166",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Groundhog Day",
-            "notes": "Year: 1993",
-            "url": "https://www.imdb.com/title/tt0107048",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Flying Scotsman",
-            "notes": "Year: 2006",
-            "url": "https://www.imdb.com/title/tt0472268",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Black Hawk Down",
-            "notes": "Year: 2001",
-            "url": "https://www.imdb.com/title/tt0265086",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Good Will Hunting",
-            "notes": "Year: 1997",
-            "url": "https://www.imdb.com/title/tt0119217",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Life is Fruity",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt6161512",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Into the Wild",
-            "notes": "Year: 2007",
-            "url": "https://www.imdb.com/title/tt0758758",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Pianist (戰地琴人)",
-            "notes": "Year: 2002",
-            "url": "https://www.imdb.com/title/tt0253474",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Schindler's List (辛德勒的名單)",
-            "notes": "Year: 1993",
-            "url": "https://www.imdb.com/title/tt0108052",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Fault in Our Stars",
-            "notes": "Year: 2014",
-            "url": "https://www.imdb.com/title/tt2582846",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Paterson",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt5247022",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Perfect Days (我的完美日常)",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt27503384",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Spider-Man: Into the Spider-Verse",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt4633694",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Island of Greed (情義之西西里島)",
-            "notes": "Year: 1997",
-            "url": "https://www.imdb.com/title/tt0156588",
-            "category": "MOVIE"
-        },
-        {
-            "title": "WALL·E",
-            "notes": "Year: 2008",
-            "url": "https://www.imdb.com/title/tt0910970",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Gifted",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt4481414",
-            "category": "MOVIE"
-        },
-        {
-            "title": "The Princess Bride",
-            "notes": "Year: 1987",
-            "url": "https://www.imdb.com/title/tt0093779",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Yojimbo",
-            "notes": "Year: 1961",
-            "url": "https://www.imdb.com/title/tt0055630",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Sanjuro",
-            "notes": "Year: 1962",
-            "url": "https://www.imdb.com/title/tt0056443",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Gladiator (神鬼戰士)",
-            "notes": "Year: 2000",
-            "url": "https://www.imdb.com/title/tt0172495",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Little Miss Sunshine",
-            "notes": "Year: 2006",
-            "url": "https://www.imdb.com/title/tt0449059",
-            "category": "MOVIE"
-        },
-        {
-            "title": "A Chip Odyssey (矽島傳奇)",
-            "notes": "Year: 2025",
-            "url": "https://www.imdb.com/title/tt37150285",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Her (雲端情人)",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt1798709",
-            "category": "MOVIE"
-        },
-        {
-            "title": "Demon Slayer: Kimetsu no Yaiba",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt9335498",
-            "category": "TV"
-        },
-        {
-            "title": "Haikyu!!",
-            "notes": "Year: 2014",
-            "url": "https://www.imdb.com/title/tt3398540",
-            "category": "TV"
-        },
-        {
-            "title": "Rebooting",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt26134148",
-            "category": "TV"
-        },
-        {
-            "title": "The Bear",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt14452776",
-            "category": "TV"
-        },
-        {
-            "title": "Dirty Money",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt7889220",
-            "category": "TV"
-        },
-        {
-            "title": "Tiger King",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt11823076",
-            "category": "TV"
-        },
-        {
-            "title": "Goliath",
-            "notes": "Year: 2016",
-            "url": "https://www.imdb.com/title/tt4687880",
-            "category": "TV"
-        },
-        {
-            "title": "Live to 100: Secrets of the Blue Zones",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt28523129",
-            "category": "TV"
-        },
-        {
-            "title": "Abstract: The Art of Design",
-            "notes": "Year: 2017",
-            "url": "https://www.imdb.com/title/tt6333098",
-            "category": "TV"
-        },
-        {
-            "title": "Arnold",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt27713897",
-            "category": "TV"
-        },
-        {
-            "title": "Chef's Table",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt4295140",
-            "category": "TV"
-        },
-        {
-            "title": "Formula 1: Drive to Survive",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt8289930",
-            "category": "TV"
-        },
-        {
-            "title": "How to Change Your Mind",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt21062540",
-            "category": "TV"
-        },
-        {
-            "title": "How to Get Rich",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt27206017",
-            "category": "TV"
-        },
-        {
-            "title": "One Strange Rock",
-            "notes": "Year: 2018",
-            "url": "https://www.imdb.com/title/tt7651892",
-            "category": "TV"
-        },
-        {
-            "title": "The Last Dance",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt8420184",
-            "category": "TV"
-        },
-        {
-            "title": "The Mind, Explained",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt10810430",
-            "category": "TV"
-        },
-        {
-            "title": "The Playbook",
-            "notes": "Year: 2020",
-            "url": "https://www.imdb.com/title/tt12930602",
-            "category": "TV"
-        },
-        {
-            "title": "The Magician on the Skywalk",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt14238838",
-            "category": "TV"
-        },
-        {
-            "title": "Mumbai Diaries",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt12714854",
-            "category": "TV"
-        },
-        {
-            "title": "Dark Matter",
-            "notes": "Year: 2024",
-            "url": "https://www.imdb.com/title/tt19231492",
-            "category": "TV"
-        },
-        {
-            "title": "The Man in the High Castle",
-            "notes": "Year: 2015",
-            "url": "https://www.imdb.com/title/tt1740299",
-            "category": "TV"
-        },
-        {
-            "title": "Chernobyl",
-            "notes": "Year: 2019",
-            "url": "https://www.imdb.com/title/tt7366338",
-            "category": "TV"
-        },
-        {
-            "title": "House of Cards",
-            "notes": "Year: 2013",
-            "url": "https://www.imdb.com/title/tt1856010",
-            "category": "TV"
-        },
-        {
-            "title": "The Billion Dollar Code",
-            "notes": "Year: 2021",
-            "url": "https://www.imdb.com/title/tt15392100",
-            "category": "TV"
-        },
-        {
-            "title": "The Last of Us",
-            "notes": "Year: 2023",
-            "url": "https://www.imdb.com/title/tt3581920",
-            "category": "TV"
-        },
-        {
-            "title": "The Playlist",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt11564258",
-            "category": "TV"
-        },
-        {
-            "title": "WeCrashed",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt12005128",
-            "category": "TV"
-        },
-        {
-            "title": "Deadliest Catch",
-            "notes": "Year: 2005",
-            "url": "https://www.imdb.com/title/tt0446809",
-            "category": "TV"
-        },
-        {
-            "title": "Benjamin Franklin",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt16415264",
-            "category": "TV"
-        },
-        {
-            "title": "Elementary",
-            "notes": "Year: 2012",
-            "url": "https://www.imdb.com/title/tt2191671",
-            "category": "TV"
-        },
-        {
-            "title": "Band of Brothers",
-            "notes": "Year: 2001",
-            "url": "https://www.imdb.com/title/tt0185906",
-            "category": "TV"
-        },
-        {
-            "title": "The Pacific",
-            "notes": "Year: 2010",
-            "url": "https://www.imdb.com/title/tt0374463",
-            "category": "TV"
-        },
-        {
-            "title": "Pachinko",
-            "notes": "Year: 2022",
-            "url": "https://www.imdb.com/title/tt8888462",
-            "category": "TV"
+    "reminders": [
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "creation_date": "Nov 17, 2024 at 18:43",
+            "modified_date": "Sep 17, 2026 at 11:02",
+            "flagged": false,
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "🖼️ Mount Everest, the highest peak in the world, welcomes the challenge of countless dreamers every year. Xia Boyu is the first Chinese \"hardcore man\" to successfully climb Mount Everest with prosthetics! In 1975, Xia Boyu joined the Chinese mountaineering team. He helped his teammates while climbing Mount Everest, which resulted in his lower legs being amputated due to frostbite. However, he did not give up his dream of climbing Mount Everest.",
+                    "creation_date": "Nov 17, 2024 at 18:44",
+                    "modified_date": "Aug 19, 2026 at 16:51",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "To the Summit",
+                    "url": "https://www.imdb.com/title/tt16345430"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "🗣️ \"What if every moment in life came with a second chance?\"\n🖼️ The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.\n🏠 https://www.uphe.com/movies/about-time",
+                    "creation_date": "Nov 17, 2024 at 18:44",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "About Time",
+                    "url": "https://www.imdb.com/title/tt2194499"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "🖼️ The inspirational rise of SpaceX as well as Elon Musk's two-decade effort to resurrect America’s space travel ambitions.\n🏠 https://www.netflix.com/title/81111324",
+                    "creation_date": "Nov 17, 2024 at 18:44",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "Return to Space",
+                    "url": "https://www.imdb.com/title/tt18555320"
+                }
+            ],
+            "list": "◻️ Movie & TV",
+            "priority": "None",
+            "name": "❤️ Favorites",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "creation_date": "Apr 4, 2025 at 13:49",
+            "modified_date": "Aug 16, 2026 at 15:47",
+            "flagged": false,
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.\n🏠 https://a24films.com/films/the-whale",
+                    "creation_date": "May 24, 2025 at 01:14",
+                    "modified_date": "Aug 19, 2026 at 16:51",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Drama | The Whale (我的鯨魚老爸)",
+                    "url": "https://www.imdb.com/title/tt13833688"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Why are they here?\"\n🖼️ Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.\n🏠 http://www.arrivalmovie.com/",
+                    "creation_date": "Apr 28, 2025 at 11:28",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Drama · Mystery · Science Fiction | Arrival",
+                    "url": "https://www.imdb.com/title/tt2543164"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"It begins on the streets. It ends here.\"\n🖼️ Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+                    "creation_date": "Apr 26, 2025 at 13:38",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2005 | Drama · History | Coach Carter",
+                    "url": "https://www.imdb.com/title/tt0393162"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A Spike Jonze love story.\"\n🖼️ In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.\n🏠 https://www.warnerbros.com/movies/her",
+                    "creation_date": "Apr 18, 2025 at 10:34",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Drama · Romance · Science Fiction | Her",
+                    "url": "https://www.imdb.com/title/tt1798709"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The Times Didn't Choose Us, We Chose to Change the Times\"\n🖼️ Throughout Hong Kong’s history, Hongkongers have fought for freedom and democracy but have yet to succeed. In 2019, a controversial extradition bill was introduced that would allow Hongkongers to be tried in mainland China. This decision spurred massive protests, riots, and resistance against heavy-handed Chinese rule over the City-State. Award-winning director Kiwi Chow documents the events to tell the story of the movement, with both a macro view of its historical context and footage and interviews from protestors on the front lines.",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary | Revolution of Our Times",
+                    "url": "https://www.imdb.com/title/tt15049118"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The journey changes you.\"\n🖼️ An intimate, behind-the-scenes look at how an anonymous chef became a world-renowned cultural icon. This unflinching look at Anthony Bourdain reverberates with his presence, in his own voice and in the way he indelibly impacted the world around him.\n🏠 https://www.focusfeatures.com/roadrunner",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary | Roadrunner: A Film About Anthony Bourdain",
+                    "url": "https://www.imdb.com/title/tt14512538"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Run for dream\"\n🖼️ Polar Super Marathon: Chen Yanbo, running for the dream\n🏠 http://www.atmovies.com.tw/movie/frcn22682403/",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | Run for dream",
+                    "url": "https://www.imdb.com/title/tt10851008"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"How much do you know about wine?\"\n🖼️ Somm takes the viewer on a humorous, emotional and illuminating look into the mysterious world of the Court of Master Sommeliers and their massively intimidating Master Sommelier Exam.",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Documentary | Somm (頂尖侍酒大師)",
+                    "url": "https://www.imdb.com/title/tt2204371"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The greatest artist you've never heard of\"\n🖼️ The remarkable life story of the pre-war Polish artist Stanislav Szukalski, documented by the American friends he made late in life.\n🏠 https://www.netflix.com/title/80109551",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | Struggle: The Life and Lost Art of Szukalski",
+                    "url": "https://www.imdb.com/title/tt9316022"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Marc-André Leclerc, an exceptional climber, has made solo his religion and ice his homeland. When filmmaker Peter Mortimer begins his film, he places his camera at the base of a British Columbia cliff and waits patiently for the star climber to come down to answer his questions. Marc André, a little uncomfortable, prefers to return to the depths of the forest where he lives in a tent with his girlfriend Brette Harrington. In the heart of winter, Peter films vertiginous solos on fragile ice. He tries to make appointments with the climber who is never there and does not seem really concerned by this camera pointed at him \"For me, it would not be a solo if there was someone else\" . Marc-André is thus, the \"pure light\" of the mountaineers of his time, which marvel Barry Blanchard, Alex Honnold or Reinhold Messner, interviewed in the film. An event film for an extraordinary character.\n🏠 https://www.thealpinistfilm.com/",
+                    "creation_date": "Apr 4, 2025 at 13:57",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary | The Alpinist",
+                    "url": "https://www.imdb.com/title/tt11790780"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"200 acres of barren farmland, and a dream to harvest in harmony with nature.\"\n🖼️ The successes and failures of a couple determined to live in harmony with nature on a farm outside of Los Angeles are lovingly chronicled by filmmaking farmer John Chester, in this inspiring documentary.\n🏠 https://www.biggestlittlefarmmovie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | The Biggest Little Farm (我家有個開心農場)",
+                    "url": "https://www.imdb.com/title/tt8969332"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Armed with the truth\"\n🖼️ From the UFC Octagon in Las Vegas and the anthropology lab at Dartmouth, to a strongman gym in Berlin and the bushlands of Zimbabwe, the world is introduced to elite athletes, special ops soldiers, visionary scientists, cultural icons, and everyday heroes—each on a mission to create a seismic shift in the way we eat and live.\n🏠 https://gamechangersmovie.com",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | The Game Changers",
+                    "url": "https://www.imdb.com/title/tt7455754"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Food is Medicine\"\n🖼️ Doctors, scientists and chefs around the globe combat illness with dietary changes, believing fat should be embraced as a source of fuel.\n🏠 https://fan-force.com/films/themagicpill/",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | The Magic Pill",
+                    "url": "https://www.imdb.com/title/tt6035294"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Great art. Mad money. No rules.\"\n🖼️ Featuring collectors, dealers, auctioneers and a rich range of artists, including market darlings George Condo, Jeff Koons, Gerhard Richter and Njideka Akunyili Crosby, this documentary examines the role of art and artistic passion in today’s money-driven, consumer-based society.\n🏠 https://www.hbo.com/documentaries/the-price-of-everything",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | The Price of Everything",
+                    "url": "https://www.imdb.com/title/tt7475540"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Courage runs deep.\"\n🖼️ The enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand.\n🏠 https://films.nationalgeographic.com/the-rescue",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary | The Rescue",
+                    "url": "https://www.imdb.com/title/tt9098872"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Sometimes change can only come from the inside.\"\n🖼️ Set entirely inside Folsom Prison, The Work follows three men during four days of intensive group therapy with convicts, revealing an intimate and powerful portrait of authentic human transformation that transcends what we think of as rehabilitation.\n🏠 http://www.theworkfilm.com/",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | The Work",
+                    "url": "https://www.imdb.com/title/tt5836866"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Thousands of PTSD victims live in Israel, which in recent years has been promoting an innovative treatment, namely psycho-active substances, known as psychedelic drugs. The film documents PTSD victims undergoing MDMA treatment at Beer Yaacov psychiatric hospital over several years. We return with them to the site of the trauma, to the life before and the long and complex road to leaving the bleeding wounds behind and returning to life.",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | Trip of Compassion",
+                    "url": "https://www.imdb.com/title/tt7155154"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Higashigaoka Junior High School is in turmoil as one of the pupils, Noguchi, who had been bullied, attempted suicide last term. On the first day of the new term, a substitute teacher arrives to take the second year class. When the teacher, Murauchi (Hiroshi Abe), introduces himself, the pupils are surprised by his stutter. He has a speech impediment. Unable to speak eloquently, Murauchi faces his pupils with ‘words of truth’. His first instruction to the pupils is to return Noguchi’s desk and chair to the original place in the classroom. Every morning Murauchi greets the empty desk, “Good morning, Noguchi.” This causes a ripple beyond the classroom and among other teachers and parents, but Murauchi will not stop doing it. Eventually the day comes when Murauchi must leave.",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2008 | Drama · Family | The Blue Bird",
+                    "url": "https://www.imdb.com/title/tt1313093"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Due to a genetic disorder, handsome librarian Henry DeTamble involuntarily zips through time, appearing at various moments in the life of his true love, the beautiful artist Clare Abshire.\n🏠 https://www.warnerbros.com/time-travelers-wife",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2009 | Drama · Fantasy · Romance | The Time Traveler's Wife",
+                    "url": "https://www.imdb.com/title/tt0452694"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"It Was Just A Moment Ago.\"\n🖼️ World War I has left golfer Rannulph Junuh a poker-playing alcoholic, his perfect swing gone. Now, however, he needs to get it back to play in a tournament to save the financially ravaged golf course of a long-ago sweetheart. Help arrives in the form of mysterious caddy Bagger Vance.",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2000 | Drama · Romance | The Legend of Bagger Vance",
+                    "url": "https://www.imdb.com/title/tt0146984"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Freedom is not given. It is our right at birth. But there are some moments when it must be taken.\"\n🖼️ In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1997 | Drama · History · Mystery | Amistad",
+                    "url": "https://www.imdb.com/title/tt0118607"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Venus, Serena and a plan for greatness.\"\n🖼️ The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.\n🏠 https://www.kingrichardfilm.net",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Drama · History | King Richard",
+                    "url": "https://www.imdb.com/title/tt9620288"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The world forever changes.\"\n🖼️ The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.\n🏠 https://www.universalpictures.com/movies/oppenheimer",
+                    "creation_date": "Apr 4, 2025 at 13:56",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Drama · History | Oppenheimer (奧本海默)",
+                    "url": "https://www.imdb.com/title/tt15398776"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Find your voice.\"\n🖼️ The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.\n🏠 http://www.kingsspeech.com/",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2010 | Drama · History | The King's Speech (王者之聲：宣戰時刻)",
+                    "url": "https://www.imdb.com/title/tt1504320"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Every dream begins with a single step\"\n🖼️ The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.\n🏠 http://www.sonypictures.com/movies/thewalk/",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Adventure · Drama · History | The Walk",
+                    "url": "https://www.imdb.com/title/tt3488710"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"An epic story of a man who could do anything... except be ordinary\"\n🖼️ The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1998 | Drama · Music | The Legend of 1900",
+                    "url": "https://www.imdb.com/title/tt0120731"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The road to greatness can take you to the edge.\"\n🖼️ Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.\n🏠 https://www.sonyclassics.com//film//whiplash#",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2014 | Drama · Music | Whiplash (進擊的鼓手)",
+                    "url": "https://www.imdb.com/title/tt2582802"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"He saw the world in a way no one could have imagined.\"\n🖼️ From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.\n🏠 https://www.uphe.com/movies/a-beautiful-mind",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2001 | Drama · Romance | A Beautiful Mind (美麗心靈)",
+                    "url": "https://www.imdb.com/title/tt0268978"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Nora and Hae Sung, two childhood friends, are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life.\n🏠 https://a24films.com/films/past-lives",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Drama · Romance | Past Lives (怕死來福)",
+                    "url": "https://www.imdb.com/title/tt13238346"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"When you know how to die, you know how to live.\"\n🖼️ A journalist finds himself questioning his own life when his best friend, a dying man, offers him some very powerful wisdom and advice for coping in relationships, careers and society.",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1999 | Drama · TV Movie | Tuesdays with Morrie",
+                    "url": "https://www.imdb.com/title/tt0207805"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"She brought a small town to its feet and a huge company to its knees.\"\n🖼️ A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2000 | Drama | Erin Brockovich",
+                    "url": "https://www.imdb.com/title/tt0195685"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Every child is special.\"\n🖼️ Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don't seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2007 | Drama | Like Stars on Earth (心中的小星星)",
+                    "url": "https://www.imdb.com/title/tt0986264"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The impossibilities are endless.\"\n🖼️ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.\n🏠 https://www.marvel.com/movies/doctor-strange",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Action · Adventure · Fantasy | Doctor Strange",
+                    "url": "https://www.imdb.com/title/tt1211837"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Comedy · Drama · Family | Dangal",
+                    "url": "https://www.imdb.com/title/tt5074352"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Believe the unbelievable.\"\n🖼️ Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.\n🏠 http://www.warnerbros.com/matrix",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1999 | Action · Science Fiction | The Matrix (駭客任務)",
+                    "url": "https://www.imdb.com/title/tt0133093"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Meet the little voices inside your head.\"\n🖼️ When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.\n🏠 http://movies.disney.com/inside-out",
+                    "creation_date": "Apr 4, 2025 at 13:55",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Adventure · Animation · Comedy · Drama · Family | Inside Out (腦筋急轉彎)",
+                    "url": "https://www.imdb.com/title/tt2096673"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Make room for new emotions.\"\n🖼️ Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.\n🏠 https://movies.disney.com/inside-out-2",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2024 | Adventure · Animation · Comedy · Family | Inside Out 2 (腦筋急轉彎2)",
+                    "url": "https://www.imdb.com/title/tt22022452"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The celebration of a lifetime.\"\n🖼️ Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.\n🏠 https://www.pixar.com/feature-films/coco",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Adventure · Animation · Family · Music | Coco",
+                    "url": "https://www.imdb.com/title/tt2380307"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"One dream. Four Jamaicans. Twenty below zero.\"\n🖼️ When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1993 | Adventure · Comedy · Drama | Cool Runnings",
+                    "url": "https://www.imdb.com/title/tt0106611"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Live beyond fear.\"\n🖼️ Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.\n🏠 https://www.nationalgeographic.com/films/free-solo/",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Adventure · Documentary | Free Solo",
+                    "url": "https://www.imdb.com/title/tt7775622"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Legendary kayaker Scott Lindgren attempts to complete an extreme, unprecedented whitewater expedition 20-years-in-the-making. When a brain tumor derails his goals, he sinks into the darkness of his own trauma only to discover that healing, like any expedition, is not a destination but a journey.\n🏠 https://www.mountainfilm.org/media/the-river-runner",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Adventure · Documentary | The River Runner",
+                    "url": "https://www.imdb.com/title/tt15293256"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Bring him home\"\n🖼️ During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.\n🏠 https://www.20thcenturystudios.com/movies/the-martian",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Adventure · Drama · Science Fiction | The Martian (絕地救援)",
+                    "url": "https://www.imdb.com/title/tt3659388"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"It begins.\"\n🖼️ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.\n🏠 https://www.dunemovie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Adventure · Science Fiction | Dune",
+                    "url": "https://www.imdb.com/title/tt1160419"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Long live the fighters.\"\n🖼️ Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.\n🏠 https://www.dunemovie.com",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2024 | Adventure · Science Fiction | Dune: Part Two (沙丘：第二部)",
+                    "url": "https://www.imdb.com/title/tt15239678"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Everybody has a soul. Joe Gardner is about to find his.\"\n🖼️ Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.\n🏠 https://www.disneyplus.com/movies/soul/77zlWrb9vRYp",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Animation · Comedy · Family · Fantasy | Soul",
+                    "url": "https://www.imdb.com/title/tt2948372"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ From Academy Award-winning filmmaker Freida Lee Mock, ‘Bird by Bird with Annie’ offers an intimate portrait of a writer and her craft, interweaving the story of Anne Lamott's life—in itself a deeply moving tale of addiction and redemption, grief and joy, intellect and faith—with a year's worth of interviews, public lectures, and footage of the writer at work, focusing particularly on Lamott's candid, humorous, and disarmingly straightforward advice on the struggles and joys of writing.  The author's reassurance and guidance concerning the process of writing—which has little resemblance to its glorified image—becomes a stirring call to action celebrating the potential of each individual, the silencing of our inner critics, and the courage to create something honest and meaningful. Poignant and inspirational, ‘Bird by Bird with Annie’ takes us deep into Anne Lamott's intoxicatingly brave world, one in which writing is a means of finding out who we are, how we live, and why we're here.",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1999 | Bird by Bird with Annie: A Film Portrait of Writer Anne Lamott",
+                    "url": "https://www.imdb.com/title/tt0202259"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Here's to the fools who dream.\"\n🖼️ Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.\n🏠 http://www.lalaland.movie",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Comedy · Drama · Music · Romance | La La Land",
+                    "url": "https://www.imdb.com/title/tt3783958"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.\n🏠 http://worstpersonfilm.com",
+                    "creation_date": "Apr 4, 2025 at 13:54",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Comedy · Drama · Romance | The Worst Person in the World (世界上最爛的人)",
+                    "url": "https://www.imdb.com/title/tt10370710"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Aal Izz Well!\"\n🖼️ Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2009 | Comedy · Drama | 3 Idiots (三個傻瓜)",
+                    "url": "https://www.imdb.com/title/tt1187043"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"An unforgettable fable that proves love, family and imagination conquer all.\"\n🖼️ A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1997 | Comedy · Drama | Life Is Beautiful (美麗人生)",
+                    "url": "https://www.imdb.com/title/tt0118799"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.\n🏠 http://www.sonyclassics.com/midnightinparis",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2011 | Comedy · Fantasy · Romance | Midnight in Paris",
+                    "url": "https://www.imdb.com/title/tt1605783"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Once again - the whole world laughs!\"\n🖼️ Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1940 | Comedy · War | The Great Dictator",
+                    "url": "https://www.imdb.com/title/tt0032553"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Put on a happy face.\"\n🖼️ During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.\n🏠 http://www.jokermovie.net/",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Crime · Drama · Thriller | Joker (小丑)",
+                    "url": "https://www.imdb.com/title/tt7286456"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Everything you're about to see is true.\"\n🖼️ Five Jewish Hungarians, now US citizens, tell their stories: before March 1944, when Nazis began to exterminate Hungarian Jews, months in concentration camps, and visiting childhood homes more than 50 years later. An historian, a Sonderkommando, a doctor who experimented on Auschwitz prisoners, and US soldiers who were part of the liberation in April 1945.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1998 | Documentary · History | The Last Days",
+                    "url": "https://www.imdb.com/title/tt0174852"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The technology that connects us also controls us.\"\n🖼️ This documentary-drama hybrid explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.\n🏠 https://www.thesocialdilemma.com/",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Documentary · Drama | The Social Dilemma",
+                    "url": "https://www.imdb.com/title/tt11464826"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"5,714 strike-outs. 108 mph fastball. 7 no-hitters. One of a kind.\"\n🖼️ In the world of Major League Baseball no one has created a mythology like Nolan Ryan. Told from the point of view of the hitters who faced him and the teammates who revered him, Facing Nolan is the definitive documentary of a Texas legend.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Documentary · History | Facing Nolan",
+                    "url": "https://www.imdb.com/title/tt17511190"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ In its first 25 years only 10 people have finished The Barkley Marathons. Based on a historic prison escape, this cult like race tempts people from around the world to test their limits of physical and mental endurance in this documentary that contemplates the value of pain.\n🏠 http://barkleymovie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2014 | Documentary · History | The Barkley Marathons: The Race That Eats Its Young",
+                    "url": "https://www.imdb.com/title/tt2400291"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The inside story of the painting that seduced the world.\"\n🖼️ London, England, 2008. Some of the most distinguished experts on the work of Italian artist Leonardo da Vinci (1452-1519) gather at the National Gallery to examine a painting known as Salvator Mundi; an event that turns out to be the first act of one of the most fascinating stories in the history of art.\n🏠 https://www.sonyclassics.com/film/thelostleonardo",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary · History | The Lost Leonardo",
+                    "url": "https://www.imdb.com/title/tt11225756"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Great Art Always Survives\"\n🖼️ Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.\n🏠 http://www.sonyclassics.com/searchingforsugarman/",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2012 | Documentary · Music | Searching for Sugar Man (尋找甜秘客)",
+                    "url": "https://www.imdb.com/title/tt2125608"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ The Amazon rain forest, 1979. The crew of Fitzcarraldo (1982), a film directed by German director Werner Herzog, soon finds itself with problems related to casting, tribal struggles and accidents, among many other setbacks; but nothing compared to dragging a huge steamboat up a mountain, while Herzog embraces the path of a certain madness to make his vision come true.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1982 | Documentary | Burden of Dreams",
+                    "url": "https://www.imdb.com/title/tt0083702"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Humanity's Lost Masterpiece... in 3D\"\n🖼️ Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France, capturing the oldest known pictorial creations of humankind in their astonishing natural setting.\n🏠 http://www.caveofforgottendreams.co.uk/",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2010 | Documentary | Cave of Forgotten Dreams",
+                    "url": "https://www.imdb.com/title/tt1664894"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Down the road from Woodstock in the early 1970s, a revolution blossomed in a ramshackle summer camp for disabled teenagers, transforming their young lives and igniting a landmark movement.\n🏠 https://www.netflix.com/title/81001496",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Documentary | Crip Camp: A Disability Revolution",
+                    "url": "https://www.imdb.com/title/tt8923484"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Sixty-two year old Richard Turner is renowned as one of the world’s greatest card magicians, yet he is completely blind. This is an in-depth look at a complex character who is one of magic’s greatest hidden treasures.",
+                    "creation_date": "Apr 4, 2025 at 13:53",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | Dealt",
+                    "url": "https://www.imdb.com/title/tt3127902"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Life is full of choices.\"\n🖼️ The documentary follows one woman's quest to overcome anxiety, depression, and opioid addiction through the use of psychedelic medicines.\n🏠 https://www.dosedmovie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | Dosed",
+                    "url": "https://www.imdb.com/title/tt9787524"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A journey of hope and transformation\"\n🖼️ How do we heal our deepest wounds? Two combat veterans, suffering from severe trauma, abandon pharmaceuticals in order to seek healing  through psychedelic medicines. Recent scientific research has shown that these substances can help people to recover from post-traumatic stress disorder (PTSD). Beyond the personal stories, From Shock to Awe raises fundamental questions about war, the pharmaceutical industry, and the US legal system.\n🏠 https://www.fromshocktoawe.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | From Shock to Awe",
+                    "url": "https://www.imdb.com/title/tt7541970"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Fully authorized, access-all-areas feature doc on the hugely charismatic and globally adored Usain Bolt – officially the fastest man alive. With never-before-seen archive footage of his youth in Jamaica, through to original footage that will be captured at his fourth and final Olympic Games in Rio, where he will compete for the gold in both the 100 and 200 metres races, for a third straight Games before his retirement in 2017. I AM BOLT will reveal the man and define the legacy of this incredible athlete.",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Documentary | I Am Bolt",
+                    "url": "https://www.imdb.com/title/tt4647900"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ A cinematic journey into the secrets of genius as told through the greatest athletes of all time. It includes original interviews with Wayne Gretzky, Pelé, Jerry Rice, and features Muhammad Ali, Serena Williams, and Michael Jordan, among others.\n🏠 https://www.insearchofgreatness.com",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | In Search of Greatness",
+                    "url": "https://www.imdb.com/title/tt8236398"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Fall in love with your work\"\n🖼️ Revered sushi chef Jiro Ono strives for perfection in his work, while his eldest son, Yoshikazu, has trouble living up to his father's legacy.\n🏠 http://www.magpictures.com/jirodreamsofsushi/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2011 | Documentary | Jiro Dreams of Sushi",
+                    "url": "https://www.imdb.com/title/tt1772925"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ If you had to give Jonas Deichmann a job description, then \"adventurer\" would probably be the most appropriate description. He is a world record holder and extreme athlete and had Markus Weinberg accompany him with his camera for his latest project. The plan: Jonas wants to complete the longest triathlon of all time, which should take him around the world. From Munich it should go back to Munich and that both running, swimming and on the bike. The journey begins turbulent and chaotic in the middle of the corona pandemic. Virtually overnight, previously planned travel routes become impassable. Border crossings that used to be easy are now becoming a complicated undertaking. But there are also rays of hope: During his 14-month journey, the “crazy German” became a phenomenon for people, giving them hope again in dark times.",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Documentary | Jonas Deichmann - Breaking the Limit",
+                    "url": "https://www.imdb.com/title/tt16986722"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Kipchoge: The Last Milestone follows record-breaking marathon runner Eliud Kipchoge's journey to becoming the first person in history to run a marathon in under two hours.\n🏠 https://www.kipchogemovie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Documentary | Kipchoge: The Last Milestone",
+                    "url": "https://www.imdb.com/title/tt14247964"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The true story of a false prophet\"\n🖼️ A documentary about a man who impersonates a wise Indian Guru and builds a following in Arizona. At the height of his popularity, the Guru Kumaré must reveal his true identity to his disciples and unveil his greatest teaching of all.\n🏠 http://www.kumaremovie.com/splash/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2012 | Documentary | Kumaré",
+                    "url": "https://www.imdb.com/title/tt1865425"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ The first and only Taiwanese player for the New York Yankees, Chien-Ming Wang held many titles: American League Wins Leader, World Series Champion, Olympian, Time 100 Most Influential, and The Pride of Taiwan. He had it all - until a 2008 injury forever altered the course of his career. Late Life: The Chien-Ming Wang Story - named after the late sinking action on his signature pitch - follows the rise and fall of the international icon as he fights his way back into the Major Leagues through endless rehab programs and lengthy stints away from home, carrying the weight of the world on his battered shoulder. A poignant and intimate account of Wang’s steadfast quest, Late Life tells the story of a man who is unwilling to give up and unable to let go.\n🏠 http://www.LateLifeMovie.com",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | Late Life: The Chien-Ming Wang Story (後勁: 王建民)",
+                    "url": "https://www.imdb.com/title/tt8234502"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"1974. 1350 feet up. The artistic crime of the century.\"\n🖼️ On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.\n🏠 http://www.manonwire.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2008 | Documentary | Man on Wire",
+                    "url": "https://www.imdb.com/title/tt1155592"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ For over half a century, 60 Minutes' fearsome newsman Mike Wallace went head-to-head with the world's most influential figures. Relying exclusively on archival footage, the film interrogates the interrogator, tracking Wallace's storied career and troubled personal life while unpacking how broadcast journalism evolved to today’s precarious tipping point.\n🏠 https://www.mikewallaceishere.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | Mike Wallace Is Here",
+                    "url": "https://www.imdb.com/title/tt9353436"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Leave the faith. Pay the price\"\n🖼️ Penetrating the insular world of New York's Hasidic community, focusing on three individuals driven to break away despite threats of retaliation.",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | One of Us",
+                    "url": "https://www.imdb.com/title/tt7214842"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Philip Roth, arguably America’s greatest living novelist, turns 80 on March 19. In 1959, his collection of short stories, Goodbye, Columbus, put him on the map, and 10 years later his hilarious, ribald best-seller, Portnoy’s Complaint, gave rise to the first of many Roth-related controversies in which Judaism, sex, the role of women, and the parent-child relationship would take center stage. In candid interviews, the Pulitzer Prize-winner discusses his distinctly unliterary upbringing in Newark, NJ, his admiration for Saul Bellow and Bernard Malamud, and how Zuckerman may or may not be his alter-ego. Nathan Englander, Mia Farrow, Jonathan Franzen, and Martin Garbus are among those who talk about the man and his writing. Franzen in particular praises Roth for “how brave he must have been to have methodically offended everybody and to have exposed parts of himself no one had ever exposed before.”",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Documentary | Philip Roth: Unmasked",
+                    "url": "https://www.imdb.com/title/tt2772984"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Amateur and professional bodybuilders prepare for the 1975 Mr. Olympia and Mr. Universe contests as five-time champion Arnold Schwarzenegger defends his Mr. Olympia title against Serge Nubret and the shy young Lou Ferrigno.",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1977 | Documentary | Pumping Iron",
+                    "url": "https://www.imdb.com/title/tt0076578"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The universe is so much bigger than you realize.\"\n🖼️ An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.\n🏠 https://a24films.com/films/everything-everywhere-all-at-once",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Action · Adventure · Science Fiction | Everything Everywhere All at Once (媽的多重宇宙)",
+                    "url": "https://www.imdb.com/title/tt6710474"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Live in the moments.\"\n🖼️ Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.\n🏠 http://rememberme-movie.com/",
+                    "creation_date": "Apr 4, 2025 at 13:52",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2010 | Drama · Romance | Remember Me",
+                    "url": "https://www.imdb.com/title/tt1403981"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"One meal, two men.\"\n🖼️ Wally, a struggling playwright and actor, reluctantly agrees to catch up with his old friend Andre, a theater director who disappeared several years prior in order to travel the world. Meeting at a posh Manhattan restaurant, the two share life stories, anecdotes and philosophical musings over the course of an evening meal.",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1981 | Drama | My Dinner with Andre",
+                    "url": "https://www.imdb.com/title/tt0082783"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The mission is a man.\"\n🖼️ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1998 | Drama · History · War | Saving Private Ryan",
+                    "url": "https://www.imdb.com/title/tt0120815"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A comic western legend.\"\n🖼️ When circumstances force an outlaw to impersonate a county governor and clean up a corrupt town, the Robin Hood figure finds himself in a showdown with the local godfather.",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2010 | Action · Comedy | Let the Bullets Fly (讓子彈飛)",
+                    "url": "https://www.imdb.com/title/tt1533117"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Raye’s devastating documentary follows the plight of some 450 dogs brought through a single animal shelter during the winter of 2013. Policy dictates that any animal not adopted within 12 nights will be destroyed. Only around 10% of residents will be so lucky as to survive. As they wait, their time in the shelter is fraught with anguish, disease, and only the slimmest possibility of a better life. Executive produced by novelist and filmmaker Giddens Ko (You Are The Apple Of My Eye).",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Documentary | Twelve Nights",
+                    "url": "https://www.imdb.com/title/tt4141906"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Welcome to America.\"\n🖼️ Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...\n🏠 https://a24films.com/films/the-brutalist",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2024 | Drama | The Brutalist",
+                    "url": "https://www.imdb.com/title/tt8999762"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2025 | Adventure · Animation · Fantasy | Ne Zha 2",
+                    "url": "https://www.imdb.com/title/tt34956443"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.\n🏠 https://www.wellgousa.com/films/ne-zha",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Adventure · Animation · Fantasy | Ne Zha",
+                    "url": "https://www.imdb.com/title/tt10627720"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A journey through understanding and fellowship.\"\n🖼️ When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1988 | Drama | Rain Man",
+                    "url": "https://www.imdb.com/title/tt0095953"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Every journey begins with a single move.\"\n🖼️ A seven-year-old chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+                    "creation_date": "Apr 4, 2025 at 13:51",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1993 | Drama | Searching for Bobby Fischer",
+                    "url": "https://www.imdb.com/title/tt0108065"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Courage beyond words.\"\n🖼️ While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Drama | The Book Thief",
+                    "url": "https://www.imdb.com/title/tt0816442"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Julien, 17, is wheelchair-bound due to cerebral palsy. Despite their love for him, his family is gradually falling apart under the strain of dealing with his disability. In a bid to bond with his father, Julien challenges him to participate with him in the Ironman race in Nice (French Riviera), a triathlon in which his father has previously competed.",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Drama | The Finishers",
+                    "url": "https://www.imdb.com/title/tt2454430"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"For his son, one man will reach for the impossible.\"\n🖼️ A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.\n🏠 https://www.sonypictures.com/movies/thepursuitofhappyness",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2006 | Drama | The Pursuit of Happyness",
+                    "url": "https://www.imdb.com/title/tt0454921"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ Each member of a family in Taipei asks hard questions about life's meaning as they live through everyday quandaries. NJ is morose: his brother owes him money, his mother-in-law is in a coma, his wife suffers a spiritual crisis when she finds her life a blank and his business partners make bad decisions.",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 1, 2025 at 09:04",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2000 | Drama | Yi Yi",
+                    "url": "https://www.imdb.com/title/tt0244316"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Change one thing. Change everything.\"\n🖼️ A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:52",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2004 | Science Fiction · Thriller | The Butterfly Effect",
+                    "url": "https://www.imdb.com/title/tt0289879"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"They were given 2 weeks. It lasted 6 days.\"\n🖼️ In 1971, Stanford's Professor Philip Zimbardo conducts a controversial psychology experiment in which college students pretend to be either prisoners or guards, but the proceedings soon get out of hand. Based on a true story.\n🏠 http://www.stanfordprisonexperimentfilm.com/",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Drama · History · Thriller | The Stanford Prison Experiment",
+                    "url": "https://www.imdb.com/title/tt0420293"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Fear can hold you prisoner. Hope can set you free.\"\n🖼️ Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1994 | Crime · Drama | The Shawshank Redemption (刺激1995)",
+                    "url": "https://www.imdb.com/title/tt0111161"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"What are you really worth?\"\n🖼️ The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.\n🏠 http://www.moneyball-movie.com",
+                    "creation_date": "Aug 4, 2025 at 20:00",
+                    "modified_date": "Aug 4, 2025 at 20:00",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2011 | Drama | Moneyball (魔球)",
+                    "url": "https://www.imdb.com/title/tt1210166"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"He’s having the worst day of his life… Over and over again.\"\n🖼️ A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.\n🏠 https://www.sonypictures.com/movies/groundhogday",
+                    "creation_date": "Aug 17, 2025 at 11:56",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1993 | Comedy · Drama · Fantasy · Romance | Groundhog Day",
+                    "url": "https://www.imdb.com/title/tt0107048"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The true story of the unlikely champion that inspired a nation.\"\n🖼️ Based on the incredible true story of amateur cyclist Graeme Obree, who breaks the world one-hour record on a bike he made out of washing machine parts.",
+                    "creation_date": "Aug 22, 2025 at 05:56",
+                    "modified_date": "Aug 22, 2025 at 06:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2006 | Drama | The Flying Scotsman",
+                    "url": "https://www.imdb.com/title/tt0472268"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Leave no man behind.\"\n🖼️ When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                    "creation_date": "Sep 24, 2025 at 16:22",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2001 | Action · History · War | Black Hawk Down",
+                    "url": "https://www.imdb.com/title/tt0265086"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Some people can never believe in themselves, until someone believes in them.\"\n🖼️ Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.\n🏠 http://www.miramax.com/movie/good-will-hunting",
+                    "creation_date": "Sep 28, 2025 at 15:50",
+                    "modified_date": "Nov 24, 2025 at 16:45",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1997 | Drama | Good Will Hunting",
+                    "url": "https://www.imdb.com/title/tt0119217"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ 90-year-old architect Shuichi Tsubata and his 87-year-old wife Hideko live in Aichi Prefecture. Their garden is bursting with 70 types of vegetables and 50 types of fruits, and they live in harmony with nature.\n🏠 http://www.life-is-fruity.com",
+                    "creation_date": "Nov 22, 2025 at 05:07",
+                    "modified_date": "Nov 24, 2025 at 07:09",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | Life is Fruity",
+                    "url": "https://www.imdb.com/title/tt6161512"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Into the heart. Into the soul.\"\n🖼️ After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+                    "creation_date": "Dec 3, 2025 at 16:51",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2007 | Adventure · Drama | Into the Wild",
+                    "url": "https://www.imdb.com/title/tt0758758"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Music was his passion. Survival was his masterpiece.\"\n🖼️ The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.\n🏠 http://www.thepianistmovie.com/",
+                    "creation_date": "Dec 4, 2025 at 14:31",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2002 | Drama · War | The Pianist (戰地琴人)",
+                    "url": "https://www.imdb.com/title/tt0253474"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Whoever saves one life, saves the world entire.\"\n🖼️ The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.\n🏠 http://www.schindlerslist.com/",
+                    "creation_date": "Dec 4, 2025 at 14:31",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1993 | Drama · History · War | Schindler's List (辛德勒的名單)",
+                    "url": "https://www.imdb.com/title/tt0108052"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Life doesn't have to be perfect for love to be extraordinary.\"\n🖼️ Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+                    "creation_date": "Jan 2, 2026 at 17:44",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2014 | Drama · Romance | The Fault in Our Stars",
+                    "url": "https://www.imdb.com/title/tt2582846"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Beauty is often found in the smallest details.\"\n🖼️ A week in the life of Paterson, a poet bus driver, and his wife Laura, a very creative artist, who live in Paterson, New Jersey, hometown of many famous poets and artists.\n🏠 https://bleeckerstreetmedia.com/paterson",
+                    "creation_date": "Jan 16, 2026 at 07:46",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Comedy · Drama · Romance | Paterson",
+                    "url": "https://www.imdb.com/title/tt5247022"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"In a world of fleeting moments, find the beauty that lasts.\"\n🖼️ Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.\n🏠 https://neonrated.com/films/perfect-days",
+                    "creation_date": "Jan 16, 2026 at 15:37",
+                    "modified_date": "Jan 16, 2026 at 19:09",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Drama | Perfect Days (我的完美日常)",
+                    "url": "https://www.imdb.com/title/tt27503384"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"More than one wears the mask.\"\n🖼️ Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.\n🏠 https://www.sonypictures.com/movies/spidermanintothespiderverse",
+                    "creation_date": "Jan 24, 2026 at 07:09",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Action · Adventure · Animation · Science Fiction | Spider-Man: Into the Spider-Verse",
+                    "url": "https://www.imdb.com/title/tt4633694"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ A gutsy police detecive and his team of cops probe into the widespread illegal dealings of a criminal mastermind who schemes to redeem himself by running for government office in taiwan.",
+                    "creation_date": "Mar 11, 2026 at 18:36",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1997 | Action · Crime · Drama · Thriller | Island of Greed (情義之西西里島)",
+                    "url": "https://www.imdb.com/title/tt0156588"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"After 700 years of doing what he was built for, he'll discover what he was meant for.\"\n🖼️ After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.\n🏠 https://www.pixar.com/feature-films/walle/",
+                    "creation_date": "Mar 15, 2026 at 08:07",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2008 | Animation · Family · Science Fiction | WALL·E",
+                    "url": "https://www.imdb.com/title/tt0910970"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"How do you create an ordinary life for an extraordinary girl?\"\n🖼️ Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.\n🏠 https://www.filmnation.com/library/gifted",
+                    "creation_date": "Apr 10, 2026 at 10:32",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Comedy · Drama | Gifted",
+                    "url": "https://www.imdb.com/title/tt4481414"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Heroes. Giants. Villains. Wizards. True Love.\"\n🖼️ In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.\n🏠 http://princessbrideforever.com/",
+                    "creation_date": "Apr 29, 2026 at 08:13",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1987 | Adventure · Comedy · Family · Fantasy · Romance | The Princess Bride",
+                    "url": "https://www.imdb.com/title/tt0093779"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"Kill one or a hundred... you only hang once\"\n🖼️ A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+                    "creation_date": "May 8, 2026 at 05:56",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1961 | Drama · Thriller | Yojimbo",
+                    "url": "https://www.imdb.com/title/tt0055630"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"You cut well, but the best sword stays in its sheath!\"\n🖼️ In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
+                    "creation_date": "May 8, 2026 at 05:56",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "1962 | Action · Comedy · Drama | Sanjuro",
+                    "url": "https://www.imdb.com/title/tt0056443"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"What we do in life echoes in eternity.\"\n🖼️ After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+                    "creation_date": "Jun 4, 2026 at 16:05",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2000 | Action · Adventure · Drama | Gladiator (神鬼戰士)",
+                    "url": "https://www.imdb.com/title/tt0172495"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A family on the verge of a breakdown.\"\n🖼️ A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.\n🏠 https://www.searchlightpictures.com/littlemisssunshine",
+                    "creation_date": "Jun 25, 2026 at 19:36",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2006 | Comedy · Drama | Little Miss Sunshine",
+                    "url": "https://www.imdb.com/title/tt0449059"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🖼️ A Chip Odyssey features interviews with over 80 key figures who witnessed and shaped the development of the semiconductor industry — from the first generation of engineers and female factory workers, to policymakers and technology veterans, and today’s young engineers facing new crossroads. This feature-length documentary chronicles how Taiwan built its semiconductor industry from scratch and transformed it into a global technological force, capturing a vital and transformative chapter in the island’s modern history.",
+                    "creation_date": "Jul 4, 2026 at 15:57",
+                    "modified_date": "Aug 18, 2026 at 21:40",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2025 | Documentary | A Chip Odyssey (矽島傳奇)",
+                    "url": "https://www.imdb.com/title/tt37150285"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"A Spike Jonze love story.\"\n🖼️ In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.\n🏠 https://www.warnerbros.com/movies/her",
+                    "creation_date": "Jul 27, 2026 at 00:01",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Drama · Romance · Science Fiction | Her (雲端情人)",
+                    "url": "https://www.imdb.com/title/tt1798709"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "MOVIE",
+                    "due_date": "",
+                    "notes": "🗣️ \"The future is not automatic.\"\n🖼️ A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.\n🏠 https://www.focusfeatures.com/the-ai-doc-or-how-i-became-an-apocaloptimist",
+                    "creation_date": "Sep 17, 2026 at 20:56",
+                    "modified_date": "Sep 17, 2026 at 20:56",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2026 | Documentary | The AI Doc: Or How I Became an Apocaloptimist",
+                    "url": "https://www.imdb.com/title/tt39150120"
+                }
+            ],
+            "list": "◻️ Movie & TV",
+            "priority": "None",
+            "name": "MOVIE",
+            "url": ""
+        },
+        {
+            "tags": "",
+            "due_date": "",
+            "notes": "",
+            "creation_date": "Apr 4, 2025 at 13:48",
+            "modified_date": "Aug 16, 2026 at 15:47",
+            "flagged": false,
+            "subtasks": [
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"The love of a brother transcends everything.\"\n🖼️ It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n🏠 https://kimetsu.com/anime",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Action & Adventure · Animation · Sci-Fi & Fantasy | Demon Slayer: Kimetsu no Yaiba",
+                    "url": "https://www.imdb.com/title/tt9335498"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Inspired by a small-statured pro volleyball player, Shouyou Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama's team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama. After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.\n🏠 https://haikyu.jp",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2014 | Action & Adventure · Animation | Haikyu!!",
+                    "url": "https://www.imdb.com/title/tt3398540"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ A comedy focusing on Kondo Asami, a 33-year-old single woman who lives with her parents and works at the local city hall, and suddenly finds herself starting her life over from scratch.\n🏠 https://www.ntv.co.jp/brushup-life/",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Comedy · Drama · Sci-Fi & Fantasy | Rebooting",
+                    "url": "https://www.imdb.com/title/tt26134148"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Back for seconds.\"\n🖼️ Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.\n🏠 https://www.fxnetworks.com/shows/the-bear",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Comedy · Drama | The Bear",
+                    "url": "https://www.imdb.com/title/tt14452776"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ From crippling payday loans to cars that cheat emissions tests, this investigative series exposes brazen acts of corporate greed and corruption.\n🏠 https://www.netflix.com/title/80118100",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Crime · Documentary | Dirty Money",
+                    "url": "https://www.imdb.com/title/tt7889220"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"We've only scratched the surface.\"\n🖼️ A zoo owner spirals out of control amid a cast of eccentric characters in this true murder-for-hire story from the underworld of big cat breeding.\n🏠 https://www.netflix.com/title/81115994",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Crime · Documentary | Tiger King",
+                    "url": "https://www.imdb.com/title/tt11823076"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Once a powerful lawyer, Billy McBride is now burned out and washed up, spending more time in a bar than a courtroom. When he reluctantly agrees to pursue a wrongful death lawsuit against the biggest client of Cooperman &amp; McBride, the massive law firm he helped create, Billy and his ragtag team uncover a vast and deadly conspiracy, pitting them all in a life or death trial against the ultimate Goliath.\n🏠 https://www.amazon.com/gp/product/B01J4SRJFW?tag=themoviedb0d-20",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2016 | Crime · Drama | Goliath",
+                    "url": "https://www.imdb.com/title/tt4687880"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Travel around the world with author Dan Buettner to discover five unique communities where people live extraordinarily long and vibrant lives.\n🏠 https://www.netflix.com/title/81214929",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Documentary · Mystery | Live to 100: Secrets of the Blue Zones",
+                    "url": "https://www.imdb.com/title/tt28523129"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Go inside the minds of the world's greatest designers\"\n🖼️ Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.\n🏠 https://www.netflix.com/title/80057883",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2017 | Documentary | Abstract: The Art of Design",
+                    "url": "https://www.imdb.com/title/tt6333098"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"One man. Three lifetimes.\"\n🖼️ This intimate docuseries follows Arnold Schwarzenegger's multifaceted life and career, from bodybuilding champ to Hollywood icon to politician.\n🏠 https://www.netflix.com/title/81317673",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Documentary | Arnold",
+                    "url": "https://www.imdb.com/title/tt27713897"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Meet culinary stars around the world who are redefining gourmet food with innovative dishes and tantalizing desserts.\n🏠 https://www.netflix.com/title/80007945",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Documentary | Chef's Table",
+                    "url": "https://www.imdb.com/title/tt4295140"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Watch your back.\"\n🖼️ Drivers, managers and team owners live life in the fast lane - both on and off the track - during one cutthroat season of Formula 1 racing.\n🏠 https://netflix.com/title/80204890",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | Formula 1: Drive to Survive",
+                    "url": "https://www.imdb.com/title/tt8289930"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Author Michael Pollan leads the way in this docuseries exploring the history and uses of psychedelics, including LSD, psilocybin, MDMA and mescaline.\n🏠 https://www.netflix.com/title/80229847",
+                    "creation_date": "Apr 4, 2025 at 13:50",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Documentary | How to Change Your Mind",
+                    "url": "https://www.imdb.com/title/tt21062540"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Money holds power over us — but it doesn't have to. Finance expert Ramit Sethi works with people across the US to help them achieve their richest lives.\n🏠 https://www.netflix.com/title/81410436",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Documentary | How to Get Rich",
+                    "url": "https://www.imdb.com/title/tt27206017"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ A mind-bending, thrilling journey exploring the fragility and wonder of planet Earth, one of the most peculiar, unique places in the entire universe, brought to life by the only people to have left it behind – the world’s most well known and leading astronauts.",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2018 | Documentary | One Strange Rock",
+                    "url": "https://www.imdb.com/title/tt7651892"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"The legends. The truth.\"\n🖼️ A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 interviews with famous figures and basketball’s biggest names.\n🏠 https://www.espn.com/watch/catalog/2806434b-1deb-4c5c-aae0-04b1ab8eebf7/the-last-dance",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Documentary | The Last Dance",
+                    "url": "https://www.imdb.com/title/tt8420184"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Ever wonder what's happening inside your head? From dreaming to anxiety disorders, discover how your brain works with this illuminating series.\n🏠 https://www.netflix.com/title/81098586",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Documentary | The Mind, Explained",
+                    "url": "https://www.imdb.com/title/tt10810430"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"A coach's rules for life.\"\n🖼️ Coaches with championship résumés share their personal rules for success in sports and life in this reflective and inspiring documentary series.\n🏠 https://www.netflix.com/title/81025735",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2020 | Documentary | The Playbook",
+                    "url": "https://www.imdb.com/title/tt12930602"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Through the stories of nine kids living in the Chinese Shopping Mall, this film depicts their diverse and magical life experiences.\nIn the summer of 1985, while Xiaobudian (the tiny one) was at the fourth grade, he was already a convincing street vendor, who sold stuff for allowance on a skywalk every day. Xiaobudian’s father is a shoe shop owner who was doing business in the Chinese Shopping Mall. One day, a magician from nowhere showed up in the mall. He had a treasure bowl and a zebra capable of emitting colorful lights, and he was able to make countless magic tricks. Xiaobudian admired this magician, and bought magic props for practice every day. At the same time, more and more boys and girls in the mall have met this mysterious magician, and gained life-changing power after they watched the magic show.\n🏠 https://www.pts.org.tw/magician/",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Drama · Mystery · Sci-Fi & Fantasy | The Magician on the Skywalk",
+                    "url": "https://www.imdb.com/title/tt14238838"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Minutes to respond, seconds to react, an instant to decide!\"\n🖼️ A medical thriller set in the Emergency Room of a government hospital. The series explores the challenges faced by the medical staff at the hospital as well as other first responders across the city of Mumbai in dealing with a crisis of immense magnitude. In this battle to save lives and heal others, the ones doing the fixing are the most broken.\n🏠 https://www.primevideo.com/detail/0HD376L46N7N4URLMJH1RZQL5B",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Drama · Mystery | Mumbai Diaries",
+                    "url": "https://www.imdb.com/title/tt12714854"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"One life. Infinite possibilities.\"\n🖼️ Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.\n🏠 https://tv.apple.com/show/umc.cmc.4luj45vtqpmjsvb6sc2675oeg",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2024 | Drama · Sci-Fi & Fantasy | Dark Matter",
+                    "url": "https://www.imdb.com/title/tt19231492"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Freedom is under control.\"\n🖼️ Explore what it would be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States. Based on Philip K. Dick's award-winning novel.\n🏠 http://www.amazon.com/dp/B00RSI5EHQ",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2015 | Drama · Sci-Fi & Fantasy | The Man in the High Castle",
+                    "url": "https://www.imdb.com/title/tt1740299"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"What is the cost of lies?\"\n🖼️ The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.\n🏠 https://www.hbo.com/chernobyl",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2019 | Drama | Chernobyl",
+                    "url": "https://www.imdb.com/title/tt7366338"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"There are two kinds of pain.\"\n🖼️ Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.\n🏠 http://www.netflix.com/title/70178217",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2013 | Drama | House of Cards",
+                    "url": "https://www.imdb.com/title/tt1856010"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ In 1990s Berlin, an artist and a hacker invented a new way to see the world. Years later, they reunite to sue Google for patent infringement on it.\n🏠 https://www.netflix.com/title/81074012",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2021 | Drama | The Billion Dollar Code",
+                    "url": "https://www.imdb.com/title/tt15392100"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Every path has a price.\"\n🖼️ Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.\n🏠 https://www.hbo.com/the-last-of-us",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2023 | Drama | The Last of Us",
+                    "url": "https://www.imdb.com/title/tt3581920"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Changing the world means making some noise.\"\n🖼️ How Swedish tech entrepreneur Daniel Ek and business partner Martin Lorentzon revolutionized the music industry through free and legal music streaming when they launched Spotify.\n🏠 https://www.netflix.com/title/81186296",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Drama | The Playlist",
+                    "url": "https://www.imdb.com/title/tt11564258"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"A love story worth $47 billion.\"\n🖼️ Inspired by actual events — and the love story at the center of it all. WeWork grew from a single coworking space into a global brand worth $47 billion in under a decade. Then, in less than a year, its valuation dropped $40 billion. What happened?\n🏠 https://tv.apple.com/show/umc.cmc.6qw605uv2rwbzutk2p2fsgvq9",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Drama | WeCrashed",
+                    "url": "https://www.imdb.com/title/tt12005128"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.\n🏠 https://www.discovery.com/tv-shows/deadliest-catch/",
+                    "creation_date": "Apr 4, 2025 at 13:49",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2005 | Reality | Deadliest Catch",
+                    "url": "https://www.imdb.com/title/tt0446809"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🖼️ Explore the revolutionary life of one of the 18th century’s most consequential and compelling personalities, whose work and words unlocked the mystery of electricity and helped create the United States.\n🏠 https://www.pbs.org/show/benjamin-franklin/",
+                    "creation_date": "Apr 4, 2025 at 13:48",
+                    "modified_date": "Aug 4, 2025 at 19:57",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Documentary | Benjamin Franklin",
+                    "url": "https://www.imdb.com/title/tt16415264"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"New Holmes. New Watson. New York.\"\n🖼️ A modern-day drama about a crime-solving duo that cracks the NYPD's most impossible cases. Following his fall from grace in London and a stint in rehab, eccentric Sherlock escapes to Manhattan where his wealthy father forces him to live with his worst nightmare - a sober companion, Dr. Watson.\n🏠 http://www.cbs.com/shows/elementary/",
+                    "creation_date": "Aug 14, 2025 at 10:00",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2012 | Crime · Drama · Mystery | Elementary",
+                    "url": "https://www.imdb.com/title/tt2191671"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"There was a time when the world asked ordinary men to do extraordinary things.\"\n🖼️ Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.\n🏠 https://www.hbo.com/content/band-of-brothers",
+                    "creation_date": "Sep 21, 2025 at 16:00",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2001 | Drama · War & Politics | Band of Brothers",
+                    "url": "https://www.imdb.com/title/tt0185906"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Hell was an ocean away.\"\n🖼️ Track the intertwined real-life stories of three U.S. Marines – Robert Leckie, John Basilone, and Eugene Sledge – across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.\n🏠 https://www.hbo.com/content/the-pacific",
+                    "creation_date": "Sep 21, 2025 at 16:01",
+                    "modified_date": "Aug 19, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2010 | Action & Adventure · Drama · War & Politics | The Pacific",
+                    "url": "https://www.imdb.com/title/tt0374463"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "TV",
+                    "due_date": "",
+                    "notes": "🗣️ \"Within us all lies the courage to change our destiny.\"\n🖼️ This sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations as they leave their homeland in an indomitable quest to survive and thrive.\n🏠 https://tv.apple.com/show/umc.cmc.17vf6g68dy89kk1l1nnb6min4",
+                    "creation_date": "Jun 4, 2026 at 16:05",
+                    "modified_date": "Jun 6, 2026 at 16:17",
+                    "flagged": false,
+                    "list": "◻️ Movie & TV",
+                    "priority": "None",
+                    "name": "2022 | Drama | Pachinko",
+                    "url": "https://www.imdb.com/title/tt8888462"
+                }
+            ],
+            "list": "◻️ Movie & TV",
+            "priority": "None",
+            "name": "TV",
+            "url": ""
         }
     ]
 }
