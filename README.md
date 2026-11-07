@@ -75,15 +75,13 @@ The best part, however, comes from the integration with Shortcuts. I created aut
 
 1. **[Movie & TV](https://huam.ing/bookmarks/movie-and-tv)**
 	* [The Movie Database (TMDb) API](https://developer.themoviedb.org)
-2. **[Podcast](https://huam.ing/bookmarks/podcast)**
-	* [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-3. **[YouTube Video](https://huam.ing/bookmarks/youtube-video)**
+2. **[YouTube Video](https://huam.ing/bookmarks/youtube-video)**
 	* [YouTube API](https://developers.google.com/youtube/v3/getting-started)
-4. **[Book](https://huam.ing/bookmarks/book)**
+3. **[Book](https://huam.ing/bookmarks/book)**
 	* [Google Books API](https://developers.google.com/books/docs/overview)
 	* [Open Library API](https://openlibrary.org/developers/api)
 	* [Library of Congress (LoC) API](https://www.loc.gov/apis)
-5. **[Essay](https://huam.ing/bookmarks/essay)**
+4. **[Essay](https://huam.ing/bookmarks/essay)**
 	* [Safari Reading List](https://support.apple.com/en-my/108970) [^1] [^2]
 
 Reminders is more than a to-do list.
