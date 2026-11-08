@@ -5,7 +5,7 @@
             "due_date": "",
             "notes": "• [“Great Talks Most People Have Never Heard” by James Clear](https://jamesclear.com/great-speeches)\n• [“Great Talks, Lectures, and Speeches of History” by Shane Parrish](https://fs.blog/great-talks)",
             "creation_date": "Nov 29, 2024 at 00:31",
-            "modified_date": "Nov 5, 2026 at 13:27",
+            "modified_date": "Nov 7, 2026 at 13:30",
             "flagged": false,
             "subtasks": [
                 {
@@ -137,6 +137,32 @@
                     "priority": "None",
                     "name": "13 mins〡林逸欣〡我的成長影片。不是照片，是真的『影片』",
                     "url": "https://www.youtube.com/watch?v=SK6K_SG8cCk"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 7, 2026 at 13:29",
+                    "modified_date": "Nov 7, 2026 at 13:29",
+                    "flagged": false,
+                    "list": "◻️ YouTube Video",
+                    "priority": "None",
+                    "name": "216 mins〡Naval〡How to Get Rich",
+                    "url": "https://www.youtube.com/watch?v=1-TZqOsVCNM"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 7, 2026 at 13:30",
+                    "modified_date": "Nov 7, 2026 at 13:30",
+                    "flagged": false,
+                    "list": "◻️ YouTube Video",
+                    "priority": "None",
+                    "name": "121 mins〡The Knowledge Project Podcast〡The Angel Philosopher Naval Ravikant on Reading, Making Decisions, Habits, and the Purpose of Life",
+                    "url": "https://www.youtube.com/watch?v=mGY2To_HW98"
                 }
             ],
             "list": "◻️ YouTube Video",
