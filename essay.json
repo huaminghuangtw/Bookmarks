@@ -5,7 +5,7 @@
             "due_date": "",
             "notes": "",
             "creation_date": "Nov 29, 2024 at 00:31",
-            "modified_date": "Nov 16, 2026 at 15:12",
+            "modified_date": "Nov 16, 2026 at 16:53",
             "flagged": false,
             "subtasks": [
                 {
@@ -98,6 +98,19 @@
                     "priority": "None",
                     "name": "從陳建仁的選擇，看我們是否已成為物質的奴隸",
                     "url": "https://vocus.cc/article/5ebe0837fd89780001507e13"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 16, 2026 at 16:53",
+                    "modified_date": "Nov 16, 2026 at 16:53",
+                    "flagged": false,
+                    "list": "◻️ Essay",
+                    "priority": "None",
+                    "name": "How to be more productive",
+                    "url": "http://www.aaronsw.com/weblog/productivity"
                 },
                 {
                     "tags": "",
@@ -1164,7 +1177,7 @@
             "due_date": "",
             "notes": "",
             "creation_date": "Aug 18, 2026 at 16:09",
-            "modified_date": "Oct 28, 2026 at 18:42",
+            "modified_date": "Nov 16, 2026 at 19:29",
             "flagged": false,
             "subtasks": [
                 {
@@ -1874,13 +1887,13 @@
                     "parent_reminder": "1000–2000 words",
                     "due_date": "",
                     "notes": "",
-                    "creation_date": "Nov 16, 2026 at 09:54",
-                    "modified_date": "Nov 16, 2026 at 09:54",
+                    "creation_date": "Nov 16, 2026 at 17:12",
+                    "modified_date": "Nov 16, 2026 at 17:12",
                     "flagged": false,
                     "list": "◻️ Essay",
                     "priority": "None",
-                    "name": "我為何跑步和寫作？〡黃樺明",
-                    "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/huam.ing%5C/20261021%22,%22brainFoodTitle%22:%22%E6%88%91%E7%82%BA%E4%BD%95%E8%B7%91%E6%AD%A5%E5%92%8C%E5%AF%AB%E4%BD%9C%EF%BC%9F%E3%80%A1%E9%BB%83%E6%A8%BA%E6%98%8E%22,%22parentReminder%22:%221000%E2%80%932000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essay%22%7D"
+                    "name": "Rewards Are Still Bad News 25 Years Later",
+                    "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/www.alfiekohn.org%5C/article%5C/rewards-25-years-later%5C/%22,%22brainFoodTitle%22:%22Rewards%20Are%20Still%20Bad%20News%2025%20Years%20Later%22,%22parentReminder%22:%221000%E2%80%932000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essay%22%7D"
                 }
             ],
             "list": "◻️ Essay",
@@ -2977,6 +2990,19 @@
                     "priority": "None",
                     "name": "‘I felt myself split into before and after’: how giving birth triggered a life-changing illness | Childbirth | The Guardian",
                     "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/www.theguardian.com%5C/lifeandstyle%5C/2024%5C/apr%5C/28%5C/i-felt-myself-split-into-before-and-after-how-giving-birth-triggered-a-life-changing-illness%22,%22brainFoodTitle%22:%22%E2%80%98I%20felt%20myself%20split%20into%20before%20and%20after%E2%80%99:%20how%20giving%20birth%20triggered%20a%20life-changing%20illness%20%7C%20Childbirth%20%7C%20The%20Guardian%22,%22parentReminder%22:%224000%E2%80%935000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essay%22%7D"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "4000–5000 words",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 16, 2026 at 17:12",
+                    "modified_date": "Nov 16, 2026 at 17:12",
+                    "flagged": false,
+                    "list": "◻️ Essay",
+                    "priority": "None",
+                    "name": "Progressive Education (#)",
+                    "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/www.alfiekohn.org%5C/article%5C/progressive-education%5C/%22,%22brainFoodTitle%22:%22Progressive%20Education%20(%23)%22,%22parentReminder%22:%224000%E2%80%935000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essay%22%7D"
                 }
             ],
             "list": "◻️ Essay",
