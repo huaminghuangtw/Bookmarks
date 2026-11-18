@@ -5,7 +5,7 @@
             "due_date": "",
             "notes": "• [Books that everyone should read at least once](https://www.goodreads.com/list/show/264.Books_That_Everyone_Should_Read_At_Least_Once)\n• [Most influential books under 100 pages](https://www.goodreads.com/list/show/29560.Most_influential_books_under_100_pages)\n• [Project Gutenberg, a library of over 75,000 free eBooks](https://www.gutenberg.org)\n• [Discover books recommended by the world's most influential people](https://www.mostrecommendedbooks.com)\n• [Books From Taiwan](https://booksfromtaiwan.moc.gov.tw)\n• [Stripe Press — Ideas for progress](https://press.stripe.com)",
             "creation_date": "Aug 16, 2026 at 16:07",
-            "modified_date": "Nov 16, 2026 at 12:52",
+            "modified_date": "Nov 18, 2026 at 12:14",
             "flagged": false,
             "subtasks": [
                 {
@@ -46,6 +46,19 @@
                     "priority": "None",
                     "name": "Cal Newport〡Deep Work",
                     "url": "https://www.google.com/search?q=Cal+Newport+Deep+Work"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 18, 2026 at 12:14",
+                    "modified_date": "Nov 18, 2026 at 12:15",
+                    "flagged": false,
+                    "list": "◻️ Book",
+                    "priority": "None",
+                    "name": "Cal Newport〡Slow Productivity",
+                    "url": "https://www.google.com/search?q=Cal+Newport+Slow+Productivity"
                 },
                 {
                     "tags": "",
