@@ -5,7 +5,7 @@
             "due_date": "",
             "notes": "",
             "creation_date": "Nov 29, 2024 at 00:31",
-            "modified_date": "Nov 16, 2026 at 16:53",
+            "modified_date": "Nov 26, 2026 at 07:58",
             "flagged": false,
             "subtasks": [
                 {
@@ -137,6 +137,19 @@
                     "priority": "None",
                     "name": "Why I Am a Bad Correspondent",
                     "url": "https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "❤️ Favorites",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 26, 2026 at 07:58",
+                    "modified_date": "Nov 26, 2026 at 07:58",
+                    "flagged": false,
+                    "list": "◻️ Essays",
+                    "priority": "None",
+                    "name": "Productive Developers are Smart and Lazy",
+                    "url": "https://accelerateddevelopment.blogspot.com/2014/04/productive-developers-are-be-smart-and.html"
                 },
                 {
                     "tags": "",
