@@ -1907,6 +1907,19 @@
                     "priority": "None",
                     "name": "Rewards Are Still Bad News 25 Years Later",
                     "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/www.alfiekohn.org%5C/article%5C/rewards-25-years-later%5C/%22,%22brainFoodTitle%22:%22Rewards%20Are%20Still%20Bad%20News%2025%20Years%20Later%22,%22parentReminder%22:%221000%E2%80%932000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essays%22%7D"
+                },
+                {
+                    "tags": "",
+                    "parent_reminder": "1000–2000 words",
+                    "due_date": "",
+                    "notes": "",
+                    "creation_date": "Nov 27, 2026 at 16:13",
+                    "modified_date": "Nov 27, 2026 at 16:13",
+                    "flagged": false,
+                    "list": "◻️ Essays",
+                    "priority": "None",
+                    "name": "Less is more, more or less",
+                    "url": "shortcuts://run-shortcut?name=Enjoy%20Brain%20Food&input=%7B%22brainFoodURL%22:%22https:%5C/%5C/jakub.kr%5C/writing%5C/less-is-more%22,%22brainFoodTitle%22:%22Less%20is%20more,%20more%20or%20less%22,%22parentReminder%22:%221000%E2%80%932000%20words%22,%22reminderList%22:%22%E2%97%BB%EF%B8%8F%20Essays%22%7D"
                 }
             ],
             "list": "◻️ Essays",
